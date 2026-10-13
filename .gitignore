@@ -1,0 +1,9 @@
+# 密码配置（含明文密码，切勿提交）
+hdu_config.json
+config.json
+*.local.json
+
+# 日志 / 缓存
+*.log
+__pycache__/
+*.pyc
